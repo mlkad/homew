@@ -1,0 +1,21 @@
+body {
+text-align: center;
+font-family: Arial}
+header {
+	background: gray;
+	padding:30px 0;
+	color
+}
+h3 {color: darkslategray;}
+img {width: 100px;}
+ol {justify-content: center;}
+img {align-items: center;
+width: 250px}
+.flex {display: flex; justify-content: space-around;
+	background: gray;}
+.bgcc {background-color: lightpink;
+padding:30px;}
+footer {padding:30 px 0;
+background: gray;}
+.wrapper {display:grid;
+background: gray;}
