@@ -18,4 +18,5 @@ padding:30px;}
 footer {padding:30 px 0;
 background: gray;}
 .wrapper {display:grid;
-background: gray;}
+background: gray;
+border: 5px solid black;}
